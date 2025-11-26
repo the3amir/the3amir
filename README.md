@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 I'm a **Frontend Developer** specializing in building clean, responsive, and modern web applications.  
-I work with **React.js** and **Vue.js** to create high-quality, dynamic interfaces and seamless user experiences.
+I work with **Vue.js** and **React.js** to create high-quality, dynamic interfaces and seamless user experiences.
 
 - 🌍 Based in Karbala – Iraq  
 - 💻 Focused on performance, clean code, and reusable components  
@@ -30,7 +30,7 @@ I work with **React.js** and **Vue.js** to create high-quality, dynamic interfac
 
 ## 📌 What I Do
 - Develop responsive and interactive web applications  
-- Build component-based architectures using React & Vue  
+- Build component-based architectures using Vue & React 
 - Work with Vue 3 Composition API and TypeScript  
 - Implement designs into clean, functional code  
 - Optimize UI performance and improve user experience  
